@@ -1,6 +1,10 @@
 # gamen-fumin-info
-■ 画面不眠 (GamenFumin) v1.0.3
+# 画面不眠 (GamenFumin)
 
+[![GitHub Release](https://img.shields.io/github/v/release/jie-arue/gamen-fumin-info?style=for-the-badge&color=blue)](https://github.com/jie-arue/gamen-fumin-info/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/jie-arue/gamen-fumin-info/total?style=for-the-badge&color=brightgreen)](https://github.com/jie-arue/gamen-fumin-info/releases)
+[![Language-Kotlin](https://img.shields.io/badge/Language-Kotlin-orange?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![Platform-Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 指定した時間、画面を消灯させずに点灯状態を維持する Android 用ツールです。
 
